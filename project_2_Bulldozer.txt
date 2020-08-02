@@ -1,0 +1,4 @@
+env =>
+conda activate C:\env\ml_env\env_2\env
+Dir => 
+D:\Coding\Jupyter_Notebook\Machine_Learning\Beginner_Projects_and_stuff\06_Project_2_Predict_Bulldozer_Price
